@@ -1,0 +1,11 @@
+공부할 것
+
+1. Linux command line basic
+2. Version control (Git, Github)
+3. Relational Databases
+4. Linux Web Server
+
+이와 함께 공부할 것.
+
+1. Python
+2. HTML, CSS, JavaScript

@@ -1,0 +1,16 @@
+Virtual box
+
+www.virtualbox.org
+
+windows PC
+
+https://youtu.be/0fPt7zrAW1k
+
+###############################
+Vagrant
+
+www.vagrantup.com
+
+Windows PC
+
+https://youtu.be/phsPValZUOE
