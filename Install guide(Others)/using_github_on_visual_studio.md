@@ -5,7 +5,7 @@
 2. Visual Studio을 열고 상단 메뉴에서 팀->연결관리->github connection 클릭
 
 3. 다음 창이 뜨면 github 계정으로 로그인<br>
-<img src="1.png" width=50%>
+<img src="1.PNG" width=50%>
 
 4. 오른쪽에 팀 탐색기에서 'Clone' 버튼 클릭<br>
 <img src="4.png" width=50%>
